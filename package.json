@@ -9,7 +9,7 @@
     "start":"node index.js",
     "frontend": "npm start --prefix ./frontend"
   },
-  "author": "\"Akhil Singh\"",
+  "author": "\"Moon Sahu\"",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
